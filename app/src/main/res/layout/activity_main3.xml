@@ -68,24 +68,6 @@
             android:text="Tambah"
             tools:ignore="OnClick">
         </Button>
-
-        <Button
-            android:id="@+id/but_Edit"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="but_EditClick"
-            android:text="Edit"
-            tools:ignore="OnClick">
-        </Button>
-
-        <Button
-            android:id="@+id/but_delete"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="but_DelClick"
-            android:text="Hapus"
-            tools:ignore="OnClick">
-        </Button>
     </LinearLayout>
 
     <TextView
